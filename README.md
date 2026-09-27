@@ -18,6 +18,12 @@
 Node 18, 20 и 22. Стыкуются друг с другом одной строкой: `revenue-report`
 приводит присланное к пригодному виду, `royalty-calc` по нему считает.
 
+Обе лежат и на российской площадке — [GitVerse](https://gitverse.ru/franchise-control):
+[royalty-calc](https://gitverse.ru/franchise-control/royalty-calc),
+[revenue-report](https://gitverse.ru/franchise-control/revenue-report). Код
+тот же, вплоть до хеша коммита. Домен github.com в России не заблокирован, но
+доступность к нему плавает, и зеркало решает это без VPN.
+
 ## Почему мы это открываем
 
 Расчёт роялти — не конкурентное преимущество. Преимущество в том, что вокруг
