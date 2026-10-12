@@ -22,7 +22,6 @@ Node 18, 20 и 22. Стыкуются друг с другом одной стр
 
 | | royalty-calc | revenue-report |
 | --- | --- | --- |
-| GitFlic | [открыть](https://gitflic.ru/project/franchise-control/royalty-calc) | [открыть](https://gitflic.ru/project/franchise-control/revenue-report) |
 | GitVerse | [открыть](https://gitverse.ru/franchise-control/royalty-calc) | [открыть](https://gitverse.ru/franchise-control/revenue-report) |
 
 Домен github.com в России не заблокирован, но доступность к нему плавает, и
